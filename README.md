@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Hussein Elnaggar
 
-<!--
-**enghelnagar/enghelnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **M.Sc. Student in Robotics Engineering** | EMARO Program (Centrale Nantes & UniGe)
 
-Here are some ideas to get you started:
+I am a passionate Mechatronics Engineer and Robotics Researcher. My core interests lie in **Medical Robotics, Soft Robotics, and Parallel Manipulators**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tech Stack & Tools
+* **Languages:** C/C++, Python
+* **Robotics & Simulation:** ROS 2, Kinematics, Control Systems
+* **Computer Vision & 3D:** Open3D, Point Cloud Processing
+
+### Let's Connect
+* **LinkedIn:** [Hussein Elnaggar](https://www.linkedin.com/in/eng-h-elnaggar/)
