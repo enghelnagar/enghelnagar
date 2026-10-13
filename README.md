@@ -1,4 +1,4 @@
-# Hi there, I'm Hussein Elnaggar
+# Hi, I'm Hussein Elnaggar
 
  **M.Sc. Student in Robotics Engineering** | EMARO Program (Centrale Nantes & UniGe)
 
