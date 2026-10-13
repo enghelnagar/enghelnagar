@@ -13,5 +13,6 @@ I am a passionate Mechatronics Engineer and Robotics Researcher. My core interes
 *   **Computer Vision & 3D Processing:** Open3D, Point Cloud Processing
 *   **Programming & Academic Tools:** C/C++, Python, MATLAB, LaTeX
 
-### Let's Connect
+### Contacts: 
 * **LinkedIn:** [Hussein Elnaggar](https://www.linkedin.com/in/eng-h-elnaggar/)
+* **Personal Email:** [eng.h.elnagar@gmail.com]
