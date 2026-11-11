@@ -15,4 +15,6 @@ I am a passionate Mechatronics Engineer and Robotics Researcher. My core interes
 
 ### Contacts: 
 * **LinkedIn:** [Hussein Elnaggar](https://www.linkedin.com/in/eng-h-elnaggar/)
+* **Academic Email:** [Hussein.Elnaggar@edu.unige.it]
 * **Personal Email:** [eng.h.elnagar@gmail.com]
+
